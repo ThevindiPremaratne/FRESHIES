@@ -1,0 +1,190 @@
+{
+    "breakfast": {
+        "veg": [
+            {
+                "id": 1,
+                "name": "String Hoppers",
+                "image": "images/cart/1.webp",
+                "price": 150
+            },
+            {
+                "id": 2,
+                "name": "Sri Lankan Rice and Curry",
+                "image": "images/cart/2.webp",
+                "price": 200
+            },
+            {
+                "id": 3,
+                "name": "Milk Rice",
+                "image": "images/cart/3.webp",
+                "price": 150
+            },
+            {
+                "id": 4,
+                "name": "American Pancakes",
+                "image": "images/cart/4.webp",
+                "price": 200
+            }
+        ],
+        "nonVeg": [
+            {
+                "id": 5,
+                "name": "Western Breakfast",
+                "image": "images/cart/5.webp",
+                "price": 550
+            },
+            {
+                "id": 6,
+                "name": "Mutton Samosa",
+                "image": "images/cart/6.webp",
+                "price": 60
+            },
+            {
+                "id": 7,
+                "name": "Savory Waffles",
+                "image": "images/cart/7.webp",
+                "price": 420
+            },
+            {
+                "id": 8,
+                "name": "Chicken Burger",
+                "image": "images/cart/8.webp",
+                "price": 450
+            }
+        ]
+    },
+    "lunch": {
+        "veg": [
+            {
+                "id": 9,
+                "name": "Sri Lankan Rice and Curry",
+                "image": "images/cart/2.webp",
+                "price": 200
+            },
+            {
+                "id": 10,
+                "name": "Vegetable Fried Rice",
+                "image": "images/cart/16.webp",
+                "price": 450
+            },
+            {
+                "id": 11,
+                "name": "Vegetable Kottu",
+                "image": "images/cart/9.webp",
+                "price": 400
+            },
+            {
+                "id": 12,
+                "name": "Green Salad",
+                "image": "images/cart/10.webp",
+                "price": 400
+            }
+        ],
+        "nonVeg": [
+            {
+                "id": 13,
+                "name": "Chicken Fried Rice",
+                "image": "images/cart/11.webp",
+                "price": 500
+            },
+            {
+                "id": 14,
+                "name": "Seafood Nasigoreng",
+                "image": "images/cart/12.webp",
+                "price": 680
+            },
+            {
+                "id": 15,
+                "name": "Chicken Kottu",
+                "image": "images/cart/13.webp",
+                "price": 450
+            },
+            {
+                "id": 16,
+                "name": "Chicken Rotti",
+                "image": "images/cart/14.webp",
+                "price": 300
+            }
+        ]
+    },
+    "dinner": {
+        "veg": [
+            {
+                "id": 17,
+                "name": "Green Salad",
+                "image": "images/cart/10.webp",
+                "price": 400
+            },
+            {
+                "id": 18,
+                "name": "Vegetable Kottu",
+                "image": "images/cart/9.webp",
+                "price": 400
+            },
+            {
+                "id": 19,
+                "name": "Vegetable Soup",
+                "image": "images/cart/15.webp",
+                "price": 320
+            },
+            {
+                "id": 20,
+                "name": "Vegetable Fried Rice",
+                "image": "images/cart/16.webp",
+                "price": 450
+            }
+        ],
+        "nonVeg": [
+            {
+                "id": 21,
+                "name": "Chicken Kottu",
+                "image": "images/cart/13.webp",
+                "price": 450
+            },
+            {
+                "id": 22,
+                "name": "Mixed Fried Rice",
+                "image": "images/cart/17.webp",
+                "price": 750
+            },
+            {
+                "id": 23,
+                "name": "Club Sandwich",
+                "image": "images/cart/18.webp",
+                "price": 450
+            },
+            {
+                "id": 24,
+                "name": "Large Pizza",
+                "image": "images/cart/19.webp",
+                "price": 2400
+            }
+        ]
+    },
+    "snacks":[
+        {
+            "id": 25,
+            "name": "Doughnut",
+            "image": "images/cart/20.webp",
+            "price": 100
+        },
+        {
+            "id": 26,
+            "name": "French Fries",
+            "image": "images/cart/21.webp",
+            "price": 380
+        },
+        {
+            "id": 27,
+            "name": "Chicken Strips (6)",
+            "image": "images/cart/22.webp",
+            "price": 380
+        },
+        {
+            "id": 28,
+            "name": "Chocolate Muffins",
+            "image": "images/cart/23.webp",
+            "price": 200
+        }
+    ]
+}
